@@ -1,0 +1,5 @@
+aws_region                = "ap-south-1"
+project_name              = "smart-doc-mgr"
+environment               = "dev"
+monthly_billing_threshold = 10
+billing_alert_email       = "your-email@example.com"
