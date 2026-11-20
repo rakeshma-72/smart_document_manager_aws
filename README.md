@@ -175,3 +175,5 @@ To destroy all deployed resources and guarantee **\$0.00 ongoing charges**:
 ./scripts/teardown.ps1
 ```
 *(On Linux/macOS, run `./scripts/teardown.sh`)*
+
+working link : https://d37rgsbxs0hgck.cloudfront.net/
